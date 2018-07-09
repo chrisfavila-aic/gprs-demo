@@ -1,7 +1,7 @@
 # gprs-demo
 This sketch demonstrates accessing the [Thingspeak](https://www.thingspeak.com) API
 via an Arduino Uno with an Elecrow GSM/GPRS v1.0 shield and a Smart sim card.
-This is based mostly on the reference code provided by [Elecrow](https://www.elecrow.com/wiki/index.php?title=GPRS/GSM_Shield_v1.0). Results publicly viewable [here](https://thingspeak.com/channels/338543)
+This is based mostly on the reference code provided by [Elecrow](https://www.elecrow.com/wiki/index.php?title=GPRS/GSM_Shield_v1.0).
 
 # How it Works:
 0. Input your Thingspeak Write API key into the sketch and upload to the Uno with the GSM/GPRS shield unattached. Disconnect the USB and stack the GPRS shield into the Uno.
